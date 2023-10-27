@@ -1,0 +1,44 @@
+.buyfirst{
+    color: white;
+    font-size: 35px;
+    padding-left: 5.6vw;
+    color: white;
+}
+
+.buysecond{
+     display: flex;
+     flex-direction: row;
+     justify-content: space-evenly;
+     color: white;
+     border-bottom:1px solid rgb(141, 136, 136) ;
+
+}
+.buy11{
+      width: 530px;
+      height: 180px;
+      border: 1px solid rgb(179, 157, 157);
+      padding: 20px;
+      border-radius: 10px;
+      margin-bottom : 80px;
+}
+.buyr{
+    display: inline-block;
+    margin-right: 10px;
+}
+.buybtn{
+    background-color: rgb(118, 231, 175);
+    border-radius: 6px;
+    padding: 10px;
+}
+.butsub{
+    border-radius: 6px;
+    padding: 10px;
+    background-color: rgb(46, 43, 43);
+    color: white;
+}
+.buybtn:hover{
+    background-color: rgb(192, 238, 215);
+}
+.butsub:hover{
+    background-color: rgb(133, 122, 122);
+}

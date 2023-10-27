@@ -1,0 +1,145 @@
+.dbcls1{
+    /* border: 1px solid red; */
+    width: 250px;
+    margin-left: 5vw;
+    color: white;
+}
+.dbh4{
+    font-size: 30px;
+}
+.dbh5{
+   font-size: 15px;
+   margin-top: -28px;
+   color: rgb(146, 134, 134);
+}
+
+.dbcls2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-bottom: 10px;
+}
+.db23{
+    padding: 10px;
+    border-bottom: 1px solid rgb(145, 141, 135) ;
+}
+.dbclscs{
+    border: 1px solid rgb(146, 138, 138);
+    border-radius: 5px;
+    width: 550px;
+    color: white;
+    box-shadow: 1px 1px 10px 0px rgb(121, 120, 120);
+    padding: 10px;
+}
+table{
+    border: 1px solid rgb(0, 255, 13);
+} 
+hr{
+    color: rgb(126, 117, 117);
+}
+
+.dbclass3{
+   border: 1px solid rgb(128, 121, 121);
+   color: white;
+   margin-left: 65px;
+   margin-right: 65px;
+   height: fit-content;
+   border-radius: 5px;
+   box-shadow: 1px 1px 10px 0px rgb(121, 120, 120);
+}
+
+.btmm{
+    border-bottom: 1px solid rgb(122, 103, 103);
+}
+
+.prt22{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    /* margin-bottom: 65px; */
+    /* margin-left: 65px;
+    margin-right: 65px;
+    border-radius: 10px; */
+    /* text-align: center; */
+}
+.prt222{
+    width:  231px;
+    height: 80px;
+    padding-left: 10px;
+  
+
+    
+}
+.btmm1{
+     margin-left: 0.8vw;
+}
+
+.m1m1{
+    padding-top: 10px;
+    border-bottom: 1px solid rgb(158, 150, 150);
+}
+.mn{
+    margin-left: 29px;
+    margin-top: -20px;
+  
+}
+.mnn{
+    margin-left: 29px;
+    margin-top: -20px;
+    /* margin-bottom: -80px; */
+    
+}
+.wes{
+   padding-top: 30px;
+}
+.mlo{
+    margin-left: 29px;
+    margin-bottom: -20px;
+}
+.mnl{
+    margin-left: 29px;
+}
+abbr{
+    width: 10px;
+}
+.qwq:hover{
+     cursor: help;
+}
+
+.db23l{
+    display: flex;
+    flex-direction: row;
+}
+.db233{
+    /* border: 1px solid green; */
+    width: 50%;
+    height: 170px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap-reverse;
+    
+}
+.db232{
+    /* border: 1px solid rgb(190, 216, 190); */
+    width: 50%;
+    height: 170px;
+}
+.tmp111{
+    width: 134px;
+    /* border: 1px solid red; */
+    height: 30px;
+    
+    
+}
+
+.wqeop{
+     display: flex;
+     flex-direction: row;
+     flex-wrap: wrap-reverse;
+    
+}
+.fgt{
+     width: 273px;
+     height: 40px;
+     /* border: 1px solid red; */
+}
